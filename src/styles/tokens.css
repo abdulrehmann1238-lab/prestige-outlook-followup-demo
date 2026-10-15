@@ -1,0 +1,73 @@
+:root {
+  --bg: #F6F2EA;
+  --bg-sunken: #EFE9DD;
+  --surface: #FBF9F4;
+  --surface-raised: #FFFFFF;
+  --text: #2A211B;
+  --text-2: #5E5249;
+  --text-3: #766A5E;
+  --border: #E2DACB;
+  --border-strong: #CFC5B2;
+  --primary: #2F4A3F;
+  --primary-hover: #263D34;
+  --primary-active: #1E3129;
+  --primary-soft: #E3EBE5;
+  --secondary: #7A4E2D;
+  --accent: #B08D57;
+  --accent-hover: #9B7A47;
+  --accent-soft: #EFE4CF;
+  --success: #3F7D58;
+  --success-soft: #E2F0E7;
+  --warning: #B7791F;
+  --warning-soft: #F7EAD0;
+  --error: #A63D2F;
+  --error-soft: #F6E0DC;
+  --info: #3D6A8A;
+  --info-soft: #E1EBF2;
+  --grp-a: #7A4E2D;
+  --grp-b: #3F7D58;
+  --grp-c: #3D6A8A;
+
+  --sp-1: 4px;
+  --sp-2: 8px;
+  --sp-3: 12px;
+  --sp-4: 16px;
+  --sp-5: 24px;
+  --sp-6: 32px;
+  --sp-7: 48px;
+  --sp-8: 64px;
+  --sp-9: 96px;
+  --sp-10: 128px;
+
+  --r-sm: 6px;
+  --r-md: 10px;
+  --r-lg: 14px;
+  --r-pill: 999px;
+
+  --shadow-1: 0 1px 2px rgba(42, 33, 27, 0.06);
+  --shadow-2: 0 4px 12px rgba(42, 33, 27, 0.08);
+  --shadow-3: 0 16px 40px rgba(42, 33, 27, 0.14);
+
+  --dur-fast: 120ms;
+  --dur-med: 240ms;
+  --dur-slow: 480ms;
+  --dur-hero: 900ms;
+
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --ease-standard: cubic-bezier(0.2, 0, 0, 1);
+
+  --z-base: 0;
+  --z-sticky: 10;
+  --z-nav: 20;
+  --z-drawer: 40;
+  --z-modal: 50;
+  --z-toast: 60;
+  --z-loader: 100;
+
+  --bp-sm: 480px;
+  --bp-md: 768px;
+  --bp-lg: 1024px;
+  --bp-xl: 1280px;
+  --bp-2xl: 1600px;
+}
